@@ -1,8 +1,11 @@
 [package]
 name = "rust-pundit"
-version = "0.1.0"
+version = "0.0.1"
 edition = "2021"
+authors = ["tstaetter"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+anyhow = "1.0.75"
+thiserror = "1.0.48"
