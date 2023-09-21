@@ -3,8 +3,7 @@ name = "rust-pundit"
 version = "0.0.1"
 edition = "2021"
 authors = ["tstaetter"]
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+readme = "README.md"
 
 [dependencies]
 anyhow = "1.0.75"
